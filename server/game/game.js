@@ -2251,7 +2251,7 @@ class ClanSystem {
 }
 
 const SECRET_KEY = crypto.createHash('sha256').update('serviceproject-secure-key-2024').digest();
-const KEY = '5b04ce1f77804995efafc2793a38ee03:caecc419ba2f45ee83668897165358ee22bde1cb94bd7350306e88cecb3236feab36597574a28b17b5deb0940868f57505a4f4c80d3cb89d9d48e90a61d17ce2';
+const KEY = '7d70912c2184538cd6a653b41512d07e:97d667644972c5a5fc50aea1f3681cb3d7df19bca3f00701d1fa42f445370e6eecec8005fbb73461b8344d7758eefbaa';
 
 function DKey(EKEY) {
   try {
